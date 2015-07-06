@@ -8,7 +8,7 @@ deploy:
   secret_access_key:
     secure: WYybZIdISgdXEPZzvrMedwh9uHn1QYNbYBIqs1BZXzgSmPTy6Q3FR/PgzbrMikK2QEyX3xzdEzaCgqdCUQTjAxYB67+4Rg3/yecEumHyFOL4KeMvptV4h9jqO0fpE+1p4ZFhFID0Lus22Sn9ikZCig3X1kRFH2VRMpBTzGwUTY+UktLGpkDp3lhIxNbP3YnbuG2w4aY5x2AeZknxt9yfHMtnn+4iOlyE7SjLLxyCq7swNIIt4sTzyl6gIEG1K8wDLGtBQPs11Zm210lQZ/Z7F3+WDgz0CwUiq0GWo/q0JOVIY1lY1CjSOFgqnJKCHcscL4pgfMAO2W8gfBCnzPiLmAeeWh1UgvoRduVYnNdKA+w4b0eeKPLvmQB8pEEUjirKur3Ru7SSaoYeUKb2aj95kk/N1NS7BAP2Uvx1RkNOM8hrNOI+tKmwFN6pRbssmC2HCoxFAQZmcPu/bBPKP2QrJmYJHzG9tryC/IuG3xS2bpK2ZluaA8FUBKqHuEuQscAtKdp9tRX9IcxE1y4X2mYzMKS2fCb+ft29odz/BECZAz9bQ0oI2hXTQo0wKwQzBOBFv0U9gohw6OysEDyfjf3+PSaBQ979HyP9SQukxTcUFI1KXM/vaVwE/esLaSDfkpgiUsPqSfMiUQvJwGCidAOHtk/zPFxbG22Y1y3ZYLa0TvA=
   bucket: deploy-weeia
-  upload-dir: drozdz/web
+  upload-dir: drozdz/worker
   acl: public_read
   on:
     repo: pawdro13/web
