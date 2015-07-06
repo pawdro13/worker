@@ -9,6 +9,6 @@ deploy:
     secure: KXUFyvMz+VuRjDTviGFgR6QQzfTJwmSHx6wlEL4Q0U4hCY6rBDwVYiC0ymsW1NYnADhx9kcpru8Oe/dYKkyAVKt57nrO0qZq+P5RKjEWdmFfjwKKlJzrw9CsOp8Y8GNmXSz+PQJmiZlaK2PuxGH2A/nREcGxuygW6C40pmUHG1F49tdHbz0MaKNDHiKZ5uxyeiD9TtJGsVD7dwol4REaAVMfZlTRkd6F2xZyCnWiOaEssDY9xt4yKrZFAfyG0+1T3lMhlSXQ3HDQFblH5Awc/ECBaDkbWtukVJEoC+2CC59UOrcnxKDDawvceFELzloUoY5LBAgy7hg6boBt2H5MIAwQ/qDvwH/CLD2dkcqWQq6/AIqEp15WNzj7X/Avq3ZLNITnHZq4g2GmW1SIYFcR6fFnAlrAKIHPcxzVK9bObhTMQh4k/xl1P+dHk4cmTGRlMw3w/g37dC6u9PEkizaIVy0+WqvB9WMgLl8bxx3TwKuVFfRbHTnhLBpSGgiEDCrhs/ZceSBjWMGVlwOAzO9ec/wIqm05/zi7KTESiakd57HqZPKpvtYCahf6fuPxRYkw2VnMSuGIf9Cj2kxTmfj6h2N2nJtDClYEWr4AkKq1KaqYgbme6pvLMNREmUuWgX+LW8FKz6xFQ24dC9m8oe5dzGeE9UMK8dXMGbJ96azL+BE=
   bucket: deploy-weeia
   upload-dir: drozdz/worker
-  acl: ''
+  acl: 'public_read'
   on:
     repo: pawdro13/worker
