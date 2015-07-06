@@ -11,4 +11,4 @@ deploy:
   upload-dir: drozdz/worker
   acl: public_read
   on:
-    repo: pawdro13/web
+    repo: pawdro13/worker
